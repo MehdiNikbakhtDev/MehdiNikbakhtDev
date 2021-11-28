@@ -1,5 +1,5 @@
 # 👨‍💻 𝐒𝐔𝐌𝐌𝐀𝐑𝐘
-Ich arbeite seit 4 Jahren als .NET-Programmierer im Banken. Mein Schwerpunkt lag oft auf der Analyse und Implementierung der Bankautomatisierung. Erfahren in Web API, SQL, OOP, Integriertes Marketing, Windows und Web Applications. Ich habe auch an der Implementierung von Bildverarbeitungsalgorithmen im meines Masterstudiums gearbeitet.
+Ich arbeite seit 4 Jahren als .NET-Programmierer im Banken. Mein Schwerpunkt lag oft auf der Analyse und Implementierung der Bankautomatisierung. Erfahren in Web API, SQL, OOP, Integriertes Marketing, Windows und Web Applications. Ich habe auch an der Implementierung von Bildverarbeitungsalgorithmen im meines Masterstudiums gearbeitet.<br>
 𝐟𝐢𝐞𝐥𝐝𝐬:
 
 <table border="0">
