@@ -41,3 +41,10 @@ Ich arbeite seit 4 Jahren als .NET-Programmierer im Banken. Mein Schwerpunkt lag
 # ✉️ 𝐑𝐄𝐀𝐂𝐇 𝐌𝐄
 
  **Email:** mahdinikbakht7105@gmail.com
+<hr>
+
+## Thank you for visiting my profile. You're a gem. :gem:
+
+![Visitor Count](https://profile-counter.glitch.me/mahdiNik/count.svg)
+
+<hr>
