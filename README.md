@@ -23,13 +23,13 @@ Ich arbeite seit 4 Jahren als .NET-Programmierer im Banken. Mein Schwerpunkt lag
   **C# | C++ | JavaScript | TypeScript**
   
 ## 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 & 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬
-**.NET/.NET Core | ASP.NET Core | Blazor | Entity Framework Core | React.js**
+**.NET/.NET Core | ASP.NET Core | Entity Framework Core | React.js**
 
 ## 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬
 **Microsoft SQL Server | SSIS**
 
 ## 𝐓𝐨𝐨𝐥𝐬
-**Docker | Git | TFS | AutoMapper | MediatR | Swagger/OpenAPI**
+**Git | TFS | AutoMapper | Swagger/OpenAPI**
 
 ## 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐏𝐚𝐭𝐭𝐞𝐫𝐧𝐬
 **MVC | REST API | CQRS and Event Sourcing | Domain Driven Design |TDD**
