@@ -1,5 +1,5 @@
 # 👨‍💻 𝐒𝐔𝐌𝐌𝐀𝐑𝐘
-Ich arbeite seit 4 Jahren als .NET-Programmierer im Banken. Mein Schwerpunkt lag oft auf der Analyse und Implementierung der Bankautomatisierung. Erfahren in Web API, SQL, OOP, Integriertes Marketing, Windows und Web Applications. Ich habe auch an der Implementierung von Bildverarbeitungsalgorithmen im meines Masterstudiums gearbeitet.<br>
+Experienced full-stack .NET developer with six years of professional experience in the banking industry. Focus is on the analysis and implementation of banking automation systems, especially in the development of web and Windows applications. Well versed in .NET technologies, MSSQL, and modern development methodologies.<br>
 𝐟𝐢𝐞𝐥𝐝𝐬:
 
 <table border="0">
@@ -40,7 +40,7 @@ Ich arbeite seit 4 Jahren als .NET-Programmierer im Banken. Mein Schwerpunkt lag
 
 # ✉️ 𝐑𝐄𝐀𝐂𝐇 𝐌𝐄
 
- **Email:** mahdinikbakht7105@gmail.com
+ **Email:** m.nikbakht.dev@gmail.com
 <hr>
 
 ## Thank you for visiting my profile. You're a gem. :gem:
